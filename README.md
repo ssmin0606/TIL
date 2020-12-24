@@ -1,4 +1,4 @@
-# TIL
+# Today, I Learned
 From today, I will upload TIL once a day
 
 
@@ -11,5 +11,5 @@ From today, I will upload TIL once a day
 
 # 참고
 
-- 학습은 노션통해 업로드
-- https://www.notion.so/df342d8a3ee84e0d9d8362d247c568e3?v=a20587bafe92472f93e9e71b9c2fdc43
+- 학습내용은 velog통해 업로드
+- https://velog.io/@ssmin0606
